@@ -14,7 +14,6 @@
 
 #ifndef __HD7279_H_
 #define __HD7279_H_ 
-
 #ifdef __cplusplus
  extern "C" {
 #endif 

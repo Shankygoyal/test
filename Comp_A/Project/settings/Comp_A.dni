@@ -44,6 +44,21 @@ State Storage=1
 ShowArgs=0
 [Disassembly]
 MixedMode=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
 [Breakpoints]
 Count=0
 [FET]
@@ -66,24 +81,9 @@ SP=0
 SR=0
 all registers=0
 File name=
-[Log file]
-LoggingEnabled=_ 0
-LogFile=_ ""
-Category=_ 0
-[TermIOLog]
-LoggingEnabled=_ 0
-LogFile=_ ""
 [Aliases]
 A0=_ "C:\Users\snail\Desktop\实验室共享资料\Comp_A与TIM配合测电阻\Comp_A与TIM配合测电阻\User\src\Delay.c" ""
 A1=_ "E:\桌面\Comp_A\User\src\HD7279.c" "E:\桌面\Comp_A与TIM配合测电阻\User\src\HD7279.c"
 A2=_ "E:\桌面\Comp_A测电阻\User\src\LCD_12864.c" "E:\桌面\Comp_A与TIM配合测电阻\User\src\LCD_12864.c"
 Count=3
 SuppressDialog=1
-[CallStackLog]
-Enabled=0
-[DriverProfiling]
-Enabled=0
-Mode=0
-Graph=0
-Symbiont=0
-Exclusions=

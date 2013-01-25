@@ -6,7 +6,6 @@
  * Checkin $Date: 2008-09-11 17:34:24 +0100 (Thu, 11 Sep 2008) $
  * Revising $Author: agrant $
  */
-
 #ifndef __stdint_h
 #define __stdint_h
 #ifdef __cplusplus
